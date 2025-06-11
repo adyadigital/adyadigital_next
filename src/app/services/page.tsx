@@ -116,7 +116,7 @@ export default function PortfolioPage() {
                     rel="noopener noreferrer"
                     className="inline-block bg-emerald-500 hover:bg-emerald-600 text-white font-medium py-3 px-6 rounded-lg transition"
                   >
-                    Let's Discuss Your Project →
+                    Let&apos;s Discuss Your Project →
                   </a>
                 </div>
               </div>
