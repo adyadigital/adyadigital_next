@@ -1,3 +1,5 @@
+## Adya-digital
+
 ## The challenge
 
 This is a modern web application built with Next.js and TypeScript, enabling users to seamlessly book meetings, process payments through Stripe, and send a message on the mail about what kind of service they want
